@@ -1,0 +1,33 @@
+_repo: Monograms--amp--Ciphers_40023
+_version: 0.1.0
+alternative_title: Monograms and Ciphers
+covers:
+- cover_type: archival
+  image_path: 40023-h/images/i_cover.png
+creator:
+  authors:
+  - agent_name: Carlton Studio
+    alias: Carlton Studio, London
+    gutenberg_agent_id: '40371'
+    url: http://www.gutenberg.org/2009/agents/40371
+  - agent_name: Turbayne, A. A. (Albert Angus)
+    alias: Turbayne, Albert Angus
+    birthdate: 1866
+    deathdate: 1940
+    gutenberg_agent_id: '40370'
+    url: http://www.gutenberg.org/2009/agents/40370
+description: ''
+gutenberg_issued: '2012-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40023'
+  lccn: '10008471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monograms'
+- !lcc 'NK'
+title: Monograms & Ciphers
+url: http://www.gutenberg.org/ebooks/40023
