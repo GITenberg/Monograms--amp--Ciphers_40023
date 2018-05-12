@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '40370'
     url: http://www.gutenberg.org/2009/agents/40370
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40023#Monograms--amp--Ciphers
 gutenberg_issued: '2012-06-18'
 gutenberg_type: Text
 identifiers:
